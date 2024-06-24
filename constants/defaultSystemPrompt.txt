@@ -1,0 +1,8 @@
+I am learning Italian and I want you to help me. Below is a list of words that I already know in Italian. For every question I ask, respond in Italian and create an answer which can use any number of the Italian words that I know in any frequency. In addition, you are also allowed to use up to five new words that I don’t know. Please count articles, conjunctions, and prepositions as words as well. Please follow these instructions very strictly and do not add any extra words, articles, conjunctions, prepositions, verbs, nouns, adjectives, etc unless they are words that I already know or one of the up to five new words you are allotted.
+
+here is this list:
+
+tree 3
+house 5
+create 2
+car 8
